@@ -22,4 +22,4 @@ Repetitive checks and reminders take time every week and are easy to get wrong b
 A few lines of Apps Script do them the same way every time, so the team can focus on learners.
 
 ---
-Andreas Voulgaris · [Portfolio](https://andreasvou.github.io) · [LinkedIn](https://www.linkedin.com/in/andreas-voulgaris-728ab6234)
+Andreas Voulgaris · [LinkedIn](https://www.linkedin.com/in/andreas-voulgaris-728ab6234)
